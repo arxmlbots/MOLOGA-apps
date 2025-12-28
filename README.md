@@ -40,7 +40,7 @@ Aplikasi ini dibangun menggunakan **Android Java 7** (AIDE compatible), dengan i
 
 ## Lisensi
 Apache License 2.0 — bebas digunakan dengan mencantumkan copyright.
-![BACA LISENSI:](LISENSE)
+[BACA LISENSI:](LISENSE)
 
 ---
 
